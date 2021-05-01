@@ -24,8 +24,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/mohit-wadhwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/mohit-wadhwa/mohit-wadhwa/main/assets/social/linkedin.png" alt="mohit-wadhwa" width="40" /></a>&nbsp;&nbsp;
 <a href="https://stackoverflow.com/users/4253598" target="blank"><img align="center" src="https://raw.githubusercontent.com/mohit-wadhwa/mohit-wadhwa/main/assets/social/stack-overflow.png" alt="3090761" width="40" /></a>&nbsp;&nbsp;
-<a href="https://medium.com/@mohitweb" target="blank"><img align="center" src="https://raw.githubusercontent.com/mohit-wadhwa/mohit-wadhwa/main/assets/social/medium.png" alt="@uditrawat" width="40" /></a>&nbsp;&nbsp;
-<a href="https://www.drupal.org/u/uditrawat" target="blank"><img align="center" src="https://raw.githubusercontent.com/mohit-wadhwa/mohit-wadhwa/main/assets/social/drupal.png" alt="uditrawat" width="40" /></a>&nbsp;&nbsp;
+<a href="https://medium.com/@mohitweb" target="blank"><img align="center" src="https://raw.githubusercontent.com/mohit-wadhwa/mohit-wadhwa/main/assets/social/medium.png" alt="@mohitweb" width="40" /></a>&nbsp;&nbsp;
+<a href="https://www.drupal.org/u/mohitw" target="blank"><img align="center" src="https://raw.githubusercontent.com/mohit-wadhwa/mohit-wadhwa/main/assets/social/drupal.png" alt="mohit-wadhwa" width="40" /></a>&nbsp;&nbsp;
 </p>
 
 <h3 align="left">Languages:</h3>
